@@ -18,3 +18,8 @@ secure.py
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+
+# ignore Files
+eb-virt/*
+
